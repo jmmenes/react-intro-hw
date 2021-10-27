@@ -1,4 +1,4 @@
-# react-Intro-hw
+# react-intro-hw
 
 * App should look like the image from 10/21/21's (L-React- Lifecycles) Lesson
 
