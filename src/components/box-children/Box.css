@@ -1,0 +1,9 @@
+div > img {
+    width: 200px;
+    height: 200px;
+}; 
+
+div{
+    display: flex;
+    justify-content: flex-start;
+}
